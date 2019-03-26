@@ -14,7 +14,7 @@ switch (configs.lang) {
 
   case 'en-US':
 
-    copy.appName = "Descola";
+    copy.appName = "Beelzebub";
     copy.subtitle = "Ask me anything";
     copy.submitButton = "Feeling lucky?";
     copy.muted = "For the brave, hit [ return ]";
