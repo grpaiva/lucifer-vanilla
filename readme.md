@@ -1,6 +1,6 @@
 # Lucifer, the JavaScript Oraculum
 
-*This app is a personal exercise to practice JavaScript and jQuery.*
+*This app is a personal exercise to practice vanilla JavaScript.*
 
 Just ask a question and the JS God of Darkness will answer. Anything. Really. But don't forget to indulge Him before asking, otherwise He won't answer properly.
 
